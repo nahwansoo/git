@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-2asdfasdfasdfa
-=======
-2asdasdfasdf
->>>>>>> d76894aa56fe4fa7d9a2d358adcec21b867d1ce0
-=======
-2 1.1
->>>>>>> 9ef5ae8068623ae324e46283e31a78e4d3156601
+1.0
